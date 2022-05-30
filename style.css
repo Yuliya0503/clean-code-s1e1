@@ -104,7 +104,7 @@
   margin: 0 0 20px;
 }
 
-#new-task {
+.add-item__input {
   width: 318px;
 }
 
@@ -145,7 +145,7 @@
 }
 
 /* Completed */
-#completed-tasks .label {
+.completed__list .label {
   text-decoration: line-through;
   color: #888;
 }
